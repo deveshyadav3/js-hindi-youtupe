@@ -12,4 +12,10 @@ let accounntstate;
 
 console.log(accountid);
 
+
+/*
+prefer not to use var
+because of issuse in the block scope and function scope 
+
+*/
 console.table([accountid,accountcity,accountemail,accountpassward,accounntstate]);
