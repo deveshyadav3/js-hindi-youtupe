@@ -1,0 +1,8 @@
+const accountid=144553
+let accountemail="deveshyadavabc@gmail.com"
+var accountpassward="12345"
+accountcity= "japan"
+
+//accountid = 2 // not allowed
+
+consolel.log(accountid);
