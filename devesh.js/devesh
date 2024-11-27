@@ -1,0 +1,27 @@
+"use strick";// tread all js coad as never versin
+
+// alert ( 3 + 3 ) // we are using nodejs,not browser
+
+console.log( 3 
+    + 
+    3 ) // code readability should be high
+
+console.log("devesh");
+
+let age=12
+let isloggedIn = false
+let state;
+
+
+// numder=2 to pawer 52
+//bright
+//string=>""
+//boolen=> true/false
+//null=> standalone value
+//undefined=>
+//symbol=> unique
+
+
+//object
+
+console.log (typeof isloggedIn);
