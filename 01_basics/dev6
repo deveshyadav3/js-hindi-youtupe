@@ -1,0 +1,27 @@
+let score = "devesh"
+
+//consol.log(type of score);
+//consol.log(type of score);
+
+let valueinNumber= (score)
+//consol.log(type ofvalueinNumber);
+//consol.log(valueinNumber);
+
+
+//"33" => 33
+//"33abc" =>NaN
+// true => 1; false =>0;
+
+let isloggedin ="devesh"
+
+let booleanisloggedin=(isloggedin)
+//consol.log(booleanisloggedin);
+
+// 1 =>true;0 =>false ;
+// ""=>false;
+// "devesh" =>true;
+
+let somenumber=33;
+
+let stringnumber= (somenumber);
+console.log("stringnumber")
