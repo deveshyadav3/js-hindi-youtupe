@@ -1,29 +1,24 @@
+let score = "33abc";
 
+//console.log(typeof score);
+//console.log(typeof (score));
 
-let score = "33abc"
+let valueInNumber= Number(score);
+//console.log(typeof valueInNumber);
+///console.log(valueInNumber);
 
-//consol.log(type of score);
-//consol.log(type of score);
+//"33"=>33
+//"33abc"=>NaN
+//true=>1;false=>0
 
-let valueinNumber= (score)
-//consol.log(type ofvalueinNumber);
-//consol.log(valueinNumber);
+let isloggedIn = 1
 
-
-//"33" => 33
-//"33abc" =>NaN
-// true => 1; false =>0;
-
-let isloggedin ="devesh"
-
-let booleanisloggedin=(isloggedin)
-//consol.log(booleanisloggedin);
-
-// 1 =>true;0 =>false ;
-// ""=>false;
-// "devesh" =>true;
-
-let somenumber=33;
-
-let stringnumber= (somenumber);
-console.log("stringnumber")
+let boolenIsloggedIn = Boolen(isloggedIn);
+console.log=(boolenIsloggedIn);
+//1=>true;0=>false
+//""=>false
+//"devesh"=>true
+let somenumber=33
+let stringnumber = strng(somenumber)
+console.log=(stringnumber)
+console.log=(typeofstringnumber)
